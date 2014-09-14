@@ -1,7 +1,7 @@
-C.A.I.T-MAINFRAME
+/*C.A.I.T-MAINFRAME*/
 =================
 
-mainframe (backbone) for CAIT
+//mainframe (backbone) for CAIT//
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
@@ -27,7 +27,7 @@ public class ChatBotBonus extends JFrame implements KeyListener{
 	
 	String[][] chatBot={
 		//standard greetings
-		{"hi","hello","hola","ola","howdy"},
+		{"hi","hello","how do you do?","what's up","yo"},
 		{"hi","hello","hey"},
 		//question greetings
 		{"how are you","how r you","how r u","how are u"},
