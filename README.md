@@ -1,7 +1,8 @@
 /*C.A.I.T-MAINFRAME*/
+/*mainframe (backbone) for CAIT*/
+// aman is a pheg
 =================
 
-/*mainframe (backbone) for CAIT*/
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
