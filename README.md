@@ -103,6 +103,7 @@ public class ChatBotBonus extends JFrame implements KeyListener{
 				}
 			}
 			//-----try counter----------
+			/*This is for You're  and var. counter*/
 			if(response==1){
 				String quoteWords[]=quote.split("[ ']");
 				int c=counter(quoteWords);
